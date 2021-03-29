@@ -1,6 +1,6 @@
 body {
     font-family: 'Lato', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     display: grid;
 	padding: 2rem;
     /*For centering */
@@ -8,7 +8,10 @@ body {
     margin-top: 10px;
 }
 @media screen and (min-width: 400px){
-    body {margin-top: 70px; }
+    body {
+        margin-top: 70px;
+        font-size: 2rem;
+    }
 }
 h1 {
     font-style: italic;
