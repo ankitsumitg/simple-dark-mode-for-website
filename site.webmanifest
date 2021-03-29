@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Dark Mode in CSS",
+    "short_name": "dark-mode",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
